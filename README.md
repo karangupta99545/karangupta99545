@@ -1,21 +1,26 @@
 # Hi 👋, I'm Karan Gupta
 
-### Full-Stack / MERN Developer | C++ & DSA | B.Tech CSE
+### Full-Stack Developer | C++ & DSA | B.Tech CSE
 
-I'm a final-year Computer Science & Engineering student at **Ajay Kumar Garg Engineering College, Ghaziabad**, interested in building practical, scalable web applications and improving my problem-solving skills.
+I'm a final-year **Computer Science & Engineering student** at Ajay Kumar Garg Engineering College, Ghaziabad, focused on building practical full-stack applications and strengthening my problem-solving skills.
 
-I enjoy working across the **frontend, backend, databases, and APIs** to turn ideas into functional products.
+I enjoy working across the **frontend, backend, databases and APIs** to build complete, user-focused applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in Computer Science & Engineering — **CGPA: 8.20/10**
-* 💻 Full-Stack Developer focused on **React.js, Node.js & Express.js**
-* 🧠 Solved **280+ DSA problems in C++** on LeetCode
-* 💼 Frontend Developer Intern at **Yahweh Software Solutions**
-* 🚀 Interested in **Software Development, Backend Engineering & Full-Stack Development**
-* 🔍 Currently looking for opportunities where I can learn, build and contribute to real-world products
+🎓 **B.Tech CSE — CGPA: 8.20/10**
+
+💻 **Full-Stack Developer** — React.js, Node.js & Express.js
+
+🧠 **280+ DSA problems** solved in C++
+
+💼 **Frontend Developer Intern** — Yahweh Software Solutions
+
+🚀 Interested in **Software Development, Backend Engineering & Full-Stack Development**
+
+📍 Ghaziabad, India
 
 ---
 
@@ -23,23 +28,29 @@ I enjoy working across the **frontend, backend, databases, and APIs** to turn id
 
 ### Languages
 
-`C` `C++` `Python` `JavaScript` `TypeScript`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+</p>
 
 ### Frontend
 
-`React.js` `HTML` `CSS` `Tailwind CSS` `Vite`
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
 
-### Backend
+### Backend & Databases
 
-`Node.js` `Express.js` `REST APIs` `JWT Authentication`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
+</p>
 
-### Databases & ORM
+### Tools & Platforms
 
-`PostgreSQL` `MySQL` `MongoDB` `Prisma`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+</p>
 
-### Tools & Integrations
-
-`Git` `GitHub` `Postman` `Redis` `Supabase` `Razorpay` `Cloudinary` `Leaflet` `Inngest`
+**Also worked with:** Supabase • Prisma • JWT • REST APIs • Razorpay • Cloudinary • Inngest • Leaflet
 
 ---
 
@@ -47,49 +58,53 @@ I enjoy working across the **frontend, backend, databases, and APIs** to turn id
 
 ### 🚗 TripMate — Real-Time Indian Ride-Hailing & Fleet Management Platform
 
-A full-stack ride-hailing platform designed around real-world Indian transportation use cases.
+A full-stack ride-hailing and fleet management platform designed around real-world Indian transportation use cases.
 
-**Tech:** React • Vite • Node.js • Express.js • Supabase/PostgreSQL • Redis • Zustand • Tailwind CSS • Socket.IO
+**Tech Stack**
 
-**Highlights:**
+`React` `Vite` `Node.js` `Express.js` `Supabase` `PostgreSQL` `Redis` `Zustand` `Tailwind CSS` `Socket.IO`
 
-* 👥 Passenger, Driver & Admin role-based workflows
+**What I built**
+
+* 👥 Passenger, Driver and Admin workflows
 * 🚘 Multiple vehicle categories with dynamic INR pricing
 * 🔐 Authentication and protected application flows
-* ⚡ RESTful backend with layered architecture
+* ⚡ Layered Express.js backend architecture
 * 📍 Location and route-based functionality
-* 🤖 AI-assisted fare prediction and customer support features
+* 🤖 AI-assisted fare prediction and customer support
 * 📱 Responsive mobile-first interface
 
-🔗 **[Live Demo](YOUR_TRIPMATE_LIVE_LINK)** · **[Source Code](YOUR_TRIPMATE_GITHUB_LINK)**
+🔗 **[View Source Code](PASTE_YOUR_TRIPMATE_REPO_URL_HERE)**
 
 ---
 
 ### 🛒 Grocify — Full-Stack Grocery Delivery Platform
 
-A full-stack grocery delivery application with customer, admin and delivery-partner workflows.
+A full-stack grocery delivery platform supporting customer, admin and delivery-partner workflows.
 
-**Tech:** React.js • Node.js • Express.js • PostgreSQL • Prisma
+**Tech Stack**
 
-**Highlights:**
+`React.js` `Node.js` `Express.js` `PostgreSQL` `Prisma`
+
+**What I built**
 
 * 🛍️ Product browsing and cart management
-* 💳 Multi-step checkout and Razorpay integration
+* 💳 Multi-step checkout with Razorpay
 * 📦 Order tracking and delivery workflows
 * 👥 Role-based dashboards
 * 🔐 JWT authentication and authorization
-* ☁️ Cloudinary image management
+* ☁️ Cloudinary image uploads
 * 📍 Leaflet-based location selection
 * ⚙️ Background jobs with Inngest
 * 📱 OTP-based delivery confirmation
 
-🔗 **[Live Demo](YOUR_GROCIFY_LIVE_LINK)** · **[Source Code](YOUR_GROCIFY_GITHUB_LINK)**
+🔗 **[View Source Code](PASTE_YOUR_GROCIFY_REPO_URL_HERE)**
 
 ---
 
 ## 🧠 Data Structures & Algorithms
 
-**LeetCode**
+### LeetCode
 
 * 🟢 **280+ problems solved**
 * 🟡 **87 Medium**
@@ -97,7 +112,7 @@ A full-stack grocery delivery application with customer, admin and delivery-part
 * 🏆 Contest Rating: **1413**
 * 💻 Primary language: **C++**
 
-🔗 **[View My LeetCode Profile](YOUR_LEETCODE_LINK)**
+🔗 **[View My LeetCode Profile](https://leetcode.com/)**
 
 ---
 
@@ -107,7 +122,7 @@ A full-stack grocery delivery application with customer, admin and delivery-part
 
 **Bangalore, India · Remote**
 
-* Developed responsive and scalable web applications using React.js, HTML, CSS and JavaScript.
+* Developed responsive web applications using React.js, HTML, CSS and JavaScript.
 * Built reusable UI components focused on usability and user experience.
 * Integrated REST APIs for dynamic data rendering.
 * Worked with Git/GitHub in an agile development workflow.
@@ -131,31 +146,37 @@ A full-stack grocery delivery application with customer, admin and delivery-part
 
 ---
 
-## 📈 What I'm Currently Working On
+## 📊 What I'm Currently Focusing On
 
 ```text
-DSA & Problem Solving       ████████████████████
-Full-Stack Development      ████████████████████
-Backend Engineering         ████████████████░░░░
-System Design               ████████████░░░░░░░░
+Full-Stack Development    ████████████████████
+DSA & Problem Solving     ████████████████████
+Backend Engineering       ████████████████░░░░
+System Design             ████████████░░░░░░░░
 ```
 
-I'm continuously improving my understanding of **backend development, databases, APIs, scalable application architecture and problem solving**.
+Currently improving my skills in **backend development, databases, APIs, scalable application architecture and problem solving**.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with developers, recruiters and people working on interesting technology projects.
+<p align="left">
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+<a href="https://github.com/karangupta99545" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+<a href="https://leetcode.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
+</a>
+</p>
 
 📧 **Email:** [karangupta99545@gmail.com](mailto:karangupta99545@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
-
-💻 **LeetCode:** [View Profile](YOUR_LEETCODE_LINK)
-
 ---
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-If you find any of my projects useful, feel free to ⭐ the repository.
+If you find one of my projects useful, feel free to ⭐ the repository.

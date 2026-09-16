@@ -2,21 +2,21 @@
 
 ### Full-Stack Developer | C++ & DSA | B.Tech CSE
 
-I'm a final-year **Computer Science & Engineering student** at Ajay Kumar Garg Engineering College, Ghaziabad, focused on building practical full-stack applications and strengthening my problem-solving skills.
+I'm a final-year **Computer Science & Engineering student** at **Ajay Kumar Garg Engineering College, Ghaziabad**, passionate about building practical web applications and solving programming problems.
 
-I enjoy working across the **frontend, backend, databases and APIs** to build complete, user-focused applications.
+I enjoy working across the **frontend, backend, databases and APIs** to turn ideas into functional, user-focused applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech CSE — CGPA: 8.20/10**
+🎓 **B.Tech in Computer Science & Engineering** — CGPA: **8.20/10**
 
-💻 **Full-Stack Developer** — React.js, Node.js & Express.js
+💻 **Full-Stack Developer** focused on React.js, Node.js and Express.js
 
 🧠 **280+ DSA problems** solved in C++
 
-💼 **Frontend Developer Intern** — Yahweh Software Solutions
+💼 **Frontend Developer Intern** at Yahweh Software Solutions
 
 🚀 Interested in **Software Development, Backend Engineering & Full-Stack Development**
 
@@ -26,127 +26,161 @@ I enjoy working across the **frontend, backend, databases and APIs** to build co
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 </p>
 
-### Backend & Databases
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools & Platforms
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+### 🔧 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 </p>
 
-**Also worked with:** Supabase • Prisma • JWT • REST APIs • Razorpay • Cloudinary • Inngest • Leaflet
+### 🔌 Technologies & Integrations
+
+`REST APIs` `JWT Authentication` `Supabase` `Prisma` `Razorpay` `Cloudinary` `Inngest` `Leaflet` `Socket.IO`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚗 TripMate — Real-Time Indian Ride-Hailing & Fleet Management Platform
+## 🌱 FreshDhara — Full-Stack E-Commerce Platform
+
+A full-stack e-commerce application focused on providing a smooth and responsive online shopping experience.
+
+### 🛠️ Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `HTML` `CSS`
+
+### ✨ Highlights
+
+* 🛍️ Product browsing and shopping experience
+* 🛒 Cart and order management
+* 🔐 User authentication
+* ⚡ REST API integration
+* 💾 Database integration
+* 📱 Responsive user interface
+
+### 🔗 Links
+
+🌐 **[Live Demo](https://fresh-dhara.vercel.app/)**
+
+💻 **[GitHub Repository](https://github.com/karangupta99545/FreshDhara-)**
+
+---
+
+## 🚗 TripMate — Real-Time Indian Ride-Hailing & Fleet Management Platform
 
 A full-stack ride-hailing and fleet management platform designed around real-world Indian transportation use cases.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`React` `Vite` `Node.js` `Express.js` `Supabase` `PostgreSQL` `Redis` `Zustand` `Tailwind CSS` `Socket.IO`
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,postgres,redis,tailwind" />
+</p>
 
-**What I built**
+`Supabase` `Zustand` `Socket.IO`
+
+### ✨ Highlights
 
 * 👥 Passenger, Driver and Admin workflows
 * 🚘 Multiple vehicle categories with dynamic INR pricing
 * 🔐 Authentication and protected application flows
-* ⚡ Layered Express.js backend architecture
+* ⚡ Express.js backend with layered architecture
 * 📍 Location and route-based functionality
 * 🤖 AI-assisted fare prediction and customer support
 * 📱 Responsive mobile-first interface
+* ⚡ Redis-based caching and real-time functionality
 
-🔗 **[View Source Code](PASTE_YOUR_TRIPMATE_REPO_URL_HERE)**
+### 🔗 Links
 
----
+🌐 **[Live Demo](https://tripmate-frontend-tnj5.onrender.com/)**
 
-### 🛒 Grocify — Full-Stack Grocery Delivery Platform
-
-A full-stack grocery delivery platform supporting customer, admin and delivery-partner workflows.
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `PostgreSQL` `Prisma`
-
-**What I built**
-
-* 🛍️ Product browsing and cart management
-* 💳 Multi-step checkout with Razorpay
-* 📦 Order tracking and delivery workflows
-* 👥 Role-based dashboards
-* 🔐 JWT authentication and authorization
-* ☁️ Cloudinary image uploads
-* 📍 Leaflet-based location selection
-* ⚙️ Background jobs with Inngest
-* 📱 OTP-based delivery confirmation
-
-🔗 **[View Source Code](PASTE_YOUR_GROCIFY_REPO_URL_HERE)**
+💻 **[GitHub Repository](https://github.com/karangupta99545/TripMate)**
 
 ---
 
-## 🧠 Data Structures & Algorithms
+# 🧠 Data Structures & Algorithms
 
 ### LeetCode
+
+I regularly practice Data Structures & Algorithms using **C++**.
 
 * 🟢 **280+ problems solved**
 * 🟡 **87 Medium**
 * 🔴 **22 Hard**
 * 🏆 Contest Rating: **1413**
-* 💻 Primary language: **C++**
+* 💻 Primary Language: **C++**
 
-🔗 **[View My LeetCode Profile](https://leetcode.com/)**
+🔗 **[View My LeetCode Profile](https://leetcode.com/u/karan23154034/)**
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Frontend Developer Intern — Yahweh Software Solutions
+## Frontend Developer Intern
 
-**Bangalore, India · Remote**
+### Yahweh Software Solutions — Bangalore, India · Remote
 
-* Developed responsive web applications using React.js, HTML, CSS and JavaScript.
+**Mar 2026 – Present**
+
+* Developed responsive and scalable web applications using **React.js, HTML, CSS and JavaScript**.
 * Built reusable UI components focused on usability and user experience.
-* Integrated REST APIs for dynamic data rendering.
-* Worked with Git/GitHub in an agile development workflow.
-* Focused on performance and cross-browser compatibility.
+* Integrated **REST APIs** for dynamic data rendering.
+* Optimized application performance and cross-browser compatibility.
+* Collaborated with cross-functional teams using **Git/GitHub** in an agile workflow.
 
 ---
 
-## 🏆 Achievements
+# 👥 Campus Experience
 
-* 🥇 **Google The Big Code 2026** — Selected among the top 15,000 participants and advanced to Round 1.
-* 🧩 **LeetCode** — 280+ DSA problems solved in C++, including 87 Medium and 22 Hard.
-* 🎖️ **SSB Interview — Indian Army & Navy** — Reached the final conference stage.
+## Frontend Developer — Team Conatus
 
----
+**Ajay Kumar Garg Engineering College · 2025 – Present**
 
-## 📜 Certifications
-
-* **Generative AI Professional — Oracle**
-* **Python for Data Science — Infosys**
-* **Introduction to Data Science — Infosys**
+* Built responsive UI components using **React.js, HTML, CSS and JavaScript**.
+* Developed an **Amazon Clone** featuring authentication and shopping cart functionality.
+* Created a **To-Do List application** with persistent data storage.
 
 ---
 
-## 📊 What I'm Currently Focusing On
+# 🏆 Achievements
+
+* 🧩 **LeetCode:** Solved 280+ DSA problems in C++, including 87 Medium and 22 Hard.
+* 🥇 **Google The Big Code 2026:** Selected among the top 15,000 participants and advanced to Round 1.
+* 🎖️ **SSB Interview — Indian Army & Navy:** Reached the final conference stage.
+
+---
+
+# 📜 Certifications
+
+* 🎓 **Generative AI Professional — Oracle**
+* 🐍 **Python for Data Science — Infosys**
+* 📊 **Introduction to Data Science — Infosys**
+
+---
+
+# 🎯 Currently Focusing On
 
 ```text
 Full-Stack Development    ████████████████████
@@ -155,28 +189,49 @@ Backend Engineering       ████████████████░░
 System Design             ████████████░░░░░░░░
 ```
 
-Currently improving my skills in **backend development, databases, APIs, scalable application architecture and problem solving**.
+Currently improving my skills in:
+
+`Backend Development` · `REST APIs` · `Databases` · `DSA` · `System Design` · `Scalable Applications`
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karangupta99545&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta99545&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+
+<a href="https://github.com/karangupta99545">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-<a href="https://github.com/karangupta99545" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
+
+<a href="https://www.linkedin.com/in/karan-gupta-461370332">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
+
+<a href="https://leetcode.com/u/karan23154034/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
+
 </p>
 
 📧 **Email:** [karangupta99545@gmail.com](mailto:karangupta99545@gmail.com)
 
+💼 **LinkedIn:** [Karan Gupta](https://www.linkedin.com/in/karan-gupta-461370332/)
+
+💻 **GitHub:** [karangupta99545](https://github.com/karangupta99545)
+
+🧠 **LeetCode:** [karan23154034](https://leetcode.com/u/karan23154034/)
+
 ---
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-If you find one of my projects useful, feel free to ⭐ the repository.
+If you find any of my projects useful, feel free to ⭐ the repository.
